@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    height: 300px;
+    width: 100%;
+    border: 3px solid green;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+}
